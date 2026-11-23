@@ -1,0 +1,6 @@
+{
+  "name": "Đến Trường Thôi Nào!",
+  "description": "Ứng dụng trò chơi tương tác 3D hoạt hình dành cho giáo viên và học sinh tiểu học vùng cao Ca Dong, hỗ trợ gọi tên học sinh ngẫu nhiên và hội thoại sinh động trên đường đến trường.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
